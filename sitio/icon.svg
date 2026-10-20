@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4.5 1 33 33" width="32" height="32" role="img" aria-label="Espiga de cebada">
+  <path d="M12 31.4V24.8" fill="none" stroke="#5B682B" stroke-width="2.3" stroke-linecap="round"/>
+  <g fill="none" stroke="#5B682B" stroke-width="1.15" stroke-linecap="round">
+    <path d="M16.54 21.89L17.67 16.72"/>
+    <path d="M7.46 21.89L6.33 16.72"/>
+    <path d="M15.89 18.08L17.03 12.9"/>
+    <path d="M8.11 18.08L6.97 12.9"/>
+    <path d="M15.34 14.15L16.47 8.97"/>
+    <path d="M8.66 14.15L7.53 8.97"/>
+    <path d="M12 9.4L12 6.3"/>
+  </g>
+  <g fill="#748339">
+    <path d="M12 27.2Q18.21 24.29 16.6 21.6Q13.38 25.07 12 27.2Z"/>
+    <path d="M12 27.2Q5.79 24.29 7.4 21.6Q10.62 25.07 12 27.2Z"/>
+    <path d="M12 22.6Q17.34 20.1 15.96 17.78Q13.19 20.77 12 22.6Z"/>
+    <path d="M12 22.6Q6.66 20.1 8.04 17.78Q10.81 20.77 12 22.6Z"/>
+    <path d="M12 18Q16.59 15.85 15.4 13.86Q13.02 16.43 12 18Z"/>
+    <path d="M12 18Q7.41 15.85 8.6 13.86Q10.98 16.43 12 18Z"/>
+    <path d="M12 14.8Q13.6 12 12 9.2Q10.4 12 12 14.8Z"/>
+  </g>
+</svg>
